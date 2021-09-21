@@ -1,5 +1,8 @@
 # Errata for *Pro C# 9 with .NET 5*
 
+On **page 105** in the note section:
+the text "you should use not .NET 5" should be "you should not use .NET 5"
+
 On **page 105** [code error]:
  
 In ExecutePatternMatchingSwitch:
