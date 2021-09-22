@@ -1,10 +1,16 @@
 # Errata for *Pro C# 9 with .NET 5*
 
 On **page 37** the text says: "To do so,activate the Project ➤ Add New Item menu option and locate the Class Diagram type"
-at the date of this writing, in .net 5 projects the class diagram template does NOT appear in the add new item menu (inspite that it is present in winforms projects) to work around that follow instructions in the following page in order to manually create a class diagram file :
+
+At the time of this writing, in .net 5 projects the class diagram template does NOT appear in the add new item menu (inspite that it is present in winforms projects) to work around that follow instructions in the following page in order to manually create a class diagram file :
+
+
 https://github.com/MicrosoftDocs/visualstudio-docs/issues/2853#issuecomment-496319064
+
+
 after that you can double click the class diagram file in order to open it and it then you can start using the class designer.
 
+***
 
 On **page 105** in the note section:
 the text "you should use not .NET 5" should be "you should not use .NET 5"
